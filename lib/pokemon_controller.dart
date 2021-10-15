@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:pokemon/network_service.dart';
 import 'package:pokemon/pokemon.dart';
-import 'package:provider/provider.dart';
 
 class PokemonController extends ChangeNotifier {
   final List<Pokemon> _pokemons = [];

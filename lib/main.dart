@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:pokemon/pokemon_controller.dart';
-//import 'package:pokemon/pokemon_detail.dart';
 import 'package:provider/provider.dart';
 import 'pokemon.dart';
 

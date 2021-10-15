@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'pokemon.dart';
 
 class PokemonDetail extends StatefulWidget {
-  Pokemon pokemon;
+   Pokemon pokemon;
 
   PokemonDetail({Key? key, required this.pokemon}) : super(key: key);
 
